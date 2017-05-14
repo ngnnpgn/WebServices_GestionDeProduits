@@ -7,8 +7,8 @@ Object: realiser un microservice permets de gerer des catologues via les methods
 - Créer une interface JPARepositoty basée sur Spring data
 - Tester la couche DAO
 - Créer L'API Restful pour gérer Gérer les produits
-- Exposer les les méthodes de l'interface JPA Repository à une API Rest en utilisant Data Rest
-- Teser L'API Rest avec un client Rest (Advenced Rest Client)
+- Exposer les méthodes de l'interface JPA Repository à une API Rest en utilisant Data Rest
+- Tester L'API Rest avec un client Rest (Advenced Rest Client sur chrome)
 
 2- L'application montre comment:
 - intégrer Bootstrap et AngulatJS dans une page HTML.
@@ -17,5 +17,4 @@ Object: realiser un microservice permets de gerer des catologues via les methods
 - gérer le modèle
 - gérer les vues de l'applications.
 - gérer le data Binding
-- faire l'interaction avec une API Rest (Première Partie de cette vidéo)
 - gérer le routes en utilisant Angular-Ui-Router.
