@@ -15,6 +15,11 @@ public class Produit implements Serializable{
 	private double prix;
 	private int quantite;
 	
+	
+	
+	public void setId(Long id) {
+		this.id = id;
+	}
 	public String getDesignation() {
 		return designation;
 	}

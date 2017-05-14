@@ -1,0 +1,12 @@
+.spacer{
+	margin-top:20px;
+}
+.clickable{
+	cursor: pointer;
+}
+
+table, th , td  {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+}
