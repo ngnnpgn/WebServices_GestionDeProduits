@@ -1,5 +1,6 @@
 # WebServices_GestionDeProduits
 * Object: realiser un microservice permets de gerer des catologues via les methods PUT POST GET DELETE (service CRUD) 
+
 1- Elle décrit les tapes suivantes pour la creation d'un microservice :
 - Créer un projet Spring Starter
 - Créer une entité JPA (Produit)
@@ -8,6 +9,7 @@
 - Créer L'API Restful pour gérer Gérer les produits
 - Exposer les les méthodes de l'interface JPA Repository à une API Rest en utilisant Data Rest
 - Teser L'API Rest avec un client Rest (Advenced Rest Client)
+
 2- L'application montre Comment:
 - intégrer Bootstrap et AngulatJS dans une page HTML.
 - créer un module Angular
