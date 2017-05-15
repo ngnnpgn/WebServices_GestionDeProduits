@@ -1,5 +1,5 @@
 # WebServices_GestionDeProduits
-Object: realiser un microservice permets de gerer des catologues via les methods PUT POST GET UPDATE DELETE (service CRUD) 
+Object: realiser un microservice qui permet de gerer des catologues via les methods PUT POST GET UPDATE DELETE (service CRUD) - l'architecture Restful
 
 1- Elle décrit les tapes suivantes pour la creation d'un microservice :
 - Créer un projet Spring Starter
